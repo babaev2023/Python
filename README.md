@@ -1,4 +1,4 @@
-## Python  
+## Python lvl 0    
 
 # Day1  
 Hello.py Hello World  
@@ -34,3 +34,7 @@ work1 - 3х значное число по разрядам
 work2 - a и b  
 
 
+## Python lvl 1  
+
+# Day1  
+Start  
