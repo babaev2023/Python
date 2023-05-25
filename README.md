@@ -47,4 +47,5 @@ howtorandom - Игра Быки и Коровы - угадай число из 4
 # Day2  
 while - циклы  
 for - цикл for  
+list and tuple - списки и кортежи 
 
