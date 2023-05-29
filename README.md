@@ -56,4 +56,8 @@ dt - date and time
 # Day3  
 packages_howto - Модули  
 
+# Day4
+color - разукрасить текст в консоли  
+
+
 
