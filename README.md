@@ -53,4 +53,7 @@ funcs_howto - год года лет (корова, коровы, коров) - 
 dict_set - Множества и словари  
 dt - date and time  
 
+# Day3  
+packages_howto - Модули  
+
 
