@@ -13,9 +13,7 @@ jobs:
         with:
           python-version: '3.9'
           cache: 'pip'
-      - run: | 
-	      pip install -r requirements.txt 
-	      pip install --upgrade pip 
+      - run: pip install -r requirements.txt 
       - run: | 
           ls -la
           python Hello.py
@@ -30,5 +28,4 @@ jobs:
           python-version: '3.9'
           cache: 'pip'
       - run: pip install -r requirements.txt 
-	  - run: pip install --upgrade pip
       - run: flake8 . --extend-exclude=dist,build --show-source --statistics
