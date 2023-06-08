@@ -16,7 +16,7 @@ jobs:
       - run: pip install -r requirements.txt
       - run: | 
           ls -la
-          python hello-world.py
+          python Hello.py
           echo "The code is okay"
   lint:
     name: Lint Code
