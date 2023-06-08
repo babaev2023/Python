@@ -16,7 +16,7 @@ jobs:
       - run: pip install -r requirements.txt 
       - run: | 
           ls -la
-          python Python\ lvl\ 0/Day_1Hello.py
+          python Python\ lvl\ 0/Day_1/Hello.py
           echo "The code is okay"
   lint:
     name: Lint Code
