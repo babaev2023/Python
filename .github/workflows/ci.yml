@@ -29,4 +29,4 @@ jobs:
           cache: 'pip'
       - run: pip install -r requirements.txt
 	  
-      - run: flake8 Python\ lvl\ 0/Day_1/Hello.py --extend-exclude=dist,build --show-source --statistics
+      - run: flake8 ./Python\ lvl\ 0/Day_1/Hello.py --extend-exclude=dist,build --show-source --statistics
